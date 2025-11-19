@@ -9,4 +9,5 @@ datas
 output
 transformer-xl
 **/epoch_*.pkl
-!**/epoch_200.pkl
+# !**/epoch_200.pkl
+**/model.pt
