@@ -1,2 +1,12 @@
 .vscode
 MusDr
+Pop1K7
+MidiTok
+GPT2RGA.py
+datas
+tutorial
+datas
+output
+transformer-xl
+**/epoch_*.pkl
+!**/epoch_200.pkl
